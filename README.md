@@ -41,7 +41,7 @@ This project is a **secure, logic-driven teacher Web app** built using Django th
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/tailwebs.git
+    git clone https://github.com/Shreeharshahs/assessment.git
     cd cms
     ```
 
